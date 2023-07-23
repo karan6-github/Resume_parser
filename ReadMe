@@ -1,3 +1,7 @@
 There is a Additional file which is required to import in order to run this projectthis file name is (clf.pkl) 
 this is a pickle file however due to the large size i was unable to upload it inthis GItHub repo.
-tou can download it by runiinig
+if you want to download the clf.pkl file do follow the following steps:
+1) search the file named (Resume screening with Python.ipynb)
+2) download the file and import it in your Juypter note book
+3) while running the file if you run all the sections, you will eventually generate both tfidf.pkl and clf.pkl file and 
+that can be viewed in your home section of juypter notebook.
